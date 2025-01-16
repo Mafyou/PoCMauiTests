@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiAppPoC", "MauiAppPoC\MauiAppPoC.csproj", "{DEACA643-9CE9-4F8C-B76B-ED6058D99C33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiAppPoC.UnitTests", "MauiAppPoC.UnitTests\MauiAppPoC.UnitTests.csproj", "{991523E2-C1E5-4DC3-A401-8B4EB103AA08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiLibAppPoC", "MauiLibAppPoC\MauiLibAppPoC.csproj", "{9C318660-F76A-4EEE-BF06-9122B36035B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B5B54BEA-DE7E-41BB-B7B4-7AC734FE3BFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E135BD7C-A9A8-4E4F-BD66-BBF8029DEF2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEACA643-9CE9-4F8C-B76B-ED6058D99C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEACA643-9CE9-4F8C-B76B-ED6058D99C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEACA643-9CE9-4F8C-B76B-ED6058D99C33}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DEACA643-9CE9-4F8C-B76B-ED6058D99C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEACA643-9CE9-4F8C-B76B-ED6058D99C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991523E2-C1E5-4DC3-A401-8B4EB103AA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991523E2-C1E5-4DC3-A401-8B4EB103AA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991523E2-C1E5-4DC3-A401-8B4EB103AA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991523E2-C1E5-4DC3-A401-8B4EB103AA08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C318660-F76A-4EEE-BF06-9122B36035B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C318660-F76A-4EEE-BF06-9122B36035B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C318660-F76A-4EEE-BF06-9122B36035B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C318660-F76A-4EEE-BF06-9122B36035B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DEACA643-9CE9-4F8C-B76B-ED6058D99C33} = {B5B54BEA-DE7E-41BB-B7B4-7AC734FE3BFF}
+		{991523E2-C1E5-4DC3-A401-8B4EB103AA08} = {E135BD7C-A9A8-4E4F-BD66-BBF8029DEF2A}
+		{9C318660-F76A-4EEE-BF06-9122B36035B9} = {B5B54BEA-DE7E-41BB-B7B4-7AC734FE3BFF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9027443B-613F-4281-A899-DF5A4C57A0D6}
+	EndGlobalSection
+EndGlobal
