@@ -4,7 +4,7 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiAppPoC", "MauiAppPoC\MauiAppPoC.csproj", "{DEACA643-9CE9-4F8C-B76B-ED6058D99C33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiAppPoC.UnitTests", "MauiAppPoC.UnitTests\MauiAppPoC.UnitTests.csproj", "{991523E2-C1E5-4DC3-A401-8B4EB103AA08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiLibiAppPoC.UnitTests", "MauiLibiAppPoC.UnitTests\MauiLibiAppPoC.UnitTests.csproj", "{991523E2-C1E5-4DC3-A401-8B4EB103AA08}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiLibAppPoC", "MauiLibAppPoC\MauiLibAppPoC.csproj", "{9C318660-F76A-4EEE-BF06-9122B36035B9}"
 EndProject

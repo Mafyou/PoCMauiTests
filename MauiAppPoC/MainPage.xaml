@@ -30,7 +30,8 @@
 
             <Button
                 x:Name="CounterBtn"
-                Text="Click me" 
+                Command="{Binding ButtonClickedCommand}"
+                Text="{Binding Counter}"
                 SemanticProperties.Hint="Counts the number of times you click"
                 HorizontalOptions="Fill" />
         </VerticalStackLayout>
